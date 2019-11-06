@@ -1,0 +1,22 @@
+body{
+	background-color: lightblue;
+	text-align: center;
+	background-image: url(/home/samrat/Desktop/1563869576285_0..webp);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+h1{
+	font-family: monospace;
+	text-shadow: gray;
+	font-size: 100px;
+	color: green;
+	border: 10px solid green;
+	border-style: dotted;
+}
+p{
+	font-family: serif;
+	text-shadow: gray;
+	font-size: 100px;
+	color: red;
+	border: 10px solid red;
+}
